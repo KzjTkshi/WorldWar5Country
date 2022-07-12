@@ -1,0 +1,180 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:39:16] password = ""  (string)
+[05:39:16] 
+[05:39:16] Server Plugins
+[05:39:16] --------------
+[05:39:16]  Loading plugin: sscanf
+[05:39:16] 
+
+[05:39:16]  ===============================
+
+[05:39:16]       sscanf plugin loaded.     
+
+[05:39:16]          Version:  2.8.3        
+
+[05:39:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[05:39:16]  ===============================
+
+[05:39:16]   Loaded.
+[05:39:16]  Loading plugin: streamer
+[05:39:16] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[05:39:16]   Loaded.
+[05:39:16]  Loading plugin: mysql
+[05:39:16]  >> plugin.mysql: R41-4 successfully loaded.
+[05:39:16]   Loaded.
+[05:39:16]  Loaded 3 plugins.
+
+[05:39:16] 
+[05:39:16] Filterscripts
+[05:39:16] ---------------
+[05:39:16]   Loading filterscript 'Switch.amx'...
+[05:39:16]   Loaded 1 filterscripts.
+
+[05:39:16]  
+[05:39:16]  ======================================= 
+[05:39:16]  |                                     | 
+[05:39:16]  |        YSI version 1.04.0000        | 
+[05:39:16]  |        By Alex "Y_Less" Cole        | 
+[05:39:16]  |                                     | 
+[05:39:16]  ======================================= 
+[05:39:16]  
+[05:39:16] 
+----------------------------------
+[05:39:16]  World War 5 Country 
+[05:39:16] ----------------------------------
+
+[05:39:16] Number of vehicle models: 28
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:39:54] password = ""  (string)
+[05:39:54] 
+[05:39:54] Server Plugins
+[05:39:54] --------------
+[05:39:54]  Loading plugin: sscanf
+[05:39:54] 
+
+[05:39:54]  ===============================
+
+[05:39:54]       sscanf plugin loaded.     
+
+[05:39:54]          Version:  2.8.3        
+
+[05:39:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[05:39:54]  ===============================
+
+[05:39:54]   Loaded.
+[05:39:54]  Loading plugin: streamer
+[05:39:54] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[05:39:54]   Loaded.
+[05:39:54]  Loading plugin: mysql
+[05:39:54]  >> plugin.mysql: R41-4 successfully loaded.
+[05:39:54]   Loaded.
+[05:39:54]  Loaded 3 plugins.
+
+[05:39:54] 
+[05:39:54] Filterscripts
+[05:39:54] ---------------
+[05:39:54]   Loading filterscript 'Switch.amx'...
+[05:39:54]   Loaded 1 filterscripts.
+
+[05:39:54]  
+[05:39:54]  ======================================= 
+[05:39:54]  |                                     | 
+[05:39:54]  |        YSI version 1.04.0000        | 
+[05:39:54]  |        By Alex "Y_Less" Cole        | 
+[05:39:54]  |                                     | 
+[05:39:54]  ======================================= 
+[05:39:54]  
+[05:39:54] 
+----------------------------------
+[05:39:54]  World War 5 Country 
+[05:39:54] ----------------------------------
+
+[05:39:54] Number of vehicle models: 28
+[05:40:47] [connection] incoming connection: 127.0.0.1:54856 id: 0
+[05:40:47] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[05:41:40] [part] Kazuji_Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:44:19] password = ""  (string)
+[05:44:19] 
+[05:44:19] Server Plugins
+[05:44:19] --------------
+[05:44:19]  Loading plugin: sscanf
+[05:44:19] 
+
+[05:44:19]  ===============================
+
+[05:44:19]       sscanf plugin loaded.     
+
+[05:44:19]          Version:  2.8.3        
+
+[05:44:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[05:44:19]  ===============================
+
+[05:44:19]   Loaded.
+[05:44:19]  Loading plugin: streamer
+[05:44:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[05:44:19]   Loaded.
+[05:44:19]  Loading plugin: mysql
+[05:44:19]  >> plugin.mysql: R41-4 successfully loaded.
+[05:44:19]   Loaded.
+[05:44:19]  Loaded 3 plugins.
+
+[05:44:19] 
+[05:44:19] Filterscripts
+[05:44:19] ---------------
+[05:44:19]   Loading filterscript 'Switch.amx'...
+[05:44:19]   Loaded 1 filterscripts.
+
+[05:44:19]  
+[05:44:19]  ======================================= 
+[05:44:19]  |                                     | 
+[05:44:19]  |        YSI version 1.04.0000        | 
+[05:44:19]  |        By Alex "Y_Less" Cole        | 
+[05:44:19]  |                                     | 
+[05:44:19]  ======================================= 
+[05:44:19]  
+[05:44:19] 
+----------------------------------
+[05:44:19]  World War 5 Country 
+[05:44:19] ----------------------------------
+
+[05:44:19] Number of vehicle models: 28
+[05:45:48] [connection] incoming connection: 127.0.0.1:49986 id: 0
+[05:45:48] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[05:46:58] [part] Kazuji_Takashi has left the server (0:1)
